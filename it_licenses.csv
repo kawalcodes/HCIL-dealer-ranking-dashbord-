@@ -1,0 +1,17 @@
+application,partner,contract_type,criticality,systems_count,concentration_risk
+H-Connect,Agranya,Agreement,High,1,Normal
+"Helpdesk, Network",NTT,MSA,High,2,MODERATE
+HSCP,Tech Mahindra,Contract,Medium,1,Normal
+WMS,NEC Corporation,Contract,High,1,Normal
+iTraining,Stratbeans,Agreement,Low,1,Normal
+BOT,Automation Edge,Agreement,Medium,1,Normal
+iWorkshop,Bosch Ltd,MSA,Medium,1,Normal
+"Dlite, HLife, H-Connect, OBIEE",IBM India Pvt Ltd,MSA,Critical,4,HIGH RISK
+Infrastructure,Kyndryl Solutions,MSA,Critical,1,Normal
+"HDMPS, QICS, FET, HEMS, F3",Infosys,MSA,Critical,5,HIGH RISK
+MPS,HP,Contract,Medium,1,Normal
+NDC,Panasonic,Agreement,Medium,1,Normal
+BOT,Exela (Source HOV),Agreement,Low,1,Normal
+NDC,Artificial Reality,Agreement,Low,1,Normal
+SMAART,GainInsight,Contract,Medium,1,Normal
+SPEAR,Girnarsoft,Contract,Medium,1,Normal
