@@ -249,9 +249,10 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # ── DATA ───────────────────────────────────────────────────────
+# ✅ FIXED (correct path)
 @st.cache_data
 def load():
-    return pd.read_csv("data/dealer_performance.csv")
+    return pd.read_csv("dealer_performance.csv")
 
 df = load()
 
